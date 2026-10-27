@@ -1,0 +1,20 @@
+classdef spectraFile
+    properties
+        noChromatograms;
+        shortDescr;
+        delay;
+        baseLine;
+        estRt;
+        TICsize;
+        timeArr;
+        intArr;
+        TIC;
+        precIon;
+        prodIon;
+        CE;
+        compNr;
+        primary;
+        name;
+        area;
+   end   
+end
